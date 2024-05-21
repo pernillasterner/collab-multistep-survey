@@ -12,4 +12,4 @@ Every project should be deployed somewhere. Be sure to include the link to the d
 
 ## Collaboration
 
-[Vardagsbruket](https://github.com/Vardagsbruket/Vardagsbruket)
+[Vardagsbruket](https://github.com/Vardagsbruket)
